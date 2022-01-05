@@ -5,4 +5,4 @@ I learned a lot in sololearn. I got my HTML and CSS certificate there. I haven't
 I tried to create websites with PSD templates and created a small Python program.
 Graduated from high school in 2013 and entered the **Belarusian - Russian University** of Civil Engineering Faculty.
 *At the moment, the level of English is A2*. I independently improve the level of English with the help of programs and practice.
->Study, study and study again
+>Study, study and study again.
